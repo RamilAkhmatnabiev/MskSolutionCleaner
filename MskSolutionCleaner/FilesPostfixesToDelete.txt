@@ -1,0 +1,9 @@
+".dotsettings"
+".dotsettings.user"
+".vspscc"
+"b4.user.config"
+"paket.exe"
+"Paket.Restore.targets"
+.eslintrc.json
+Settings.StyleCop
+SuspenseAccountCodeMap.dgml
